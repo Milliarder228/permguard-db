@@ -1,7 +1,6 @@
 {
-  "0000000000000000000000000000000000000000000000000000000000000000": {
-    "signature": "Пример.Замени.Меня",
-    "fileName": "example_malware.apk",
-    "firstSeen": "2026-07-16"
+  "275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f": {
+    "signature": "EICAR-Test-File",
+    "firstSeen": "2026-07-24"
   }
 }
